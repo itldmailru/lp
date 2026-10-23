@@ -1,4 +1,12 @@
 {
+   "balashikha": {
+    "name": "Балашиха",
+    "jobs": 42,
+    "realty": 38,
+    "news": 44,
+    "events": 45,
+    "ads": 46
+  },
   "chekhov": {
     "name": "Чехов",
     "jobs": 42,
