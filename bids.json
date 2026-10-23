@@ -1,5 +1,13 @@
 {
-   "moscow": {
+   "default": {
+    "name": "Москва",
+    "jobs": 42,
+    "realty": 38,
+    "news": 44,
+    "events": 45,
+    "ads": 46
+  }, 
+    "moscow": {
     "name": "Москва",
     "jobs": 42,
     "realty": 38,
