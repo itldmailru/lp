@@ -48,11 +48,11 @@
     "ads": 205
   },
   "default": {
-    "name": "Город",
+    "name": "Москва",
     "jobs": 1,
     "realty": 2,
     "news": 3,
     "events": 4,
-    "ads": 5
+    "ads": 38
   }
 }
