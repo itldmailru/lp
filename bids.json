@@ -1,5 +1,6 @@
 {
   "chekhov": {
+    "name": "Чехов",
     "jobs": 42,
     "realty": 43,
     "news": 44,
@@ -7,6 +8,7 @@
     "ads": 46
   },
   "voskresensk": {
+    "name": "Воскресенск",
     "jobs": 105,
     "realty": 106,
     "news": 107,
@@ -14,6 +16,7 @@
     "ads": 109
   },
   "kolomna": {
+    "name": "Коломна",
     "jobs": 201,
     "realty": 202,
     "news": 203,
@@ -21,6 +24,7 @@
     "ads": 205
   },
   "default": {
+    "name": "Город",
     "jobs": 1,
     "realty": 2,
     "news": 3,
